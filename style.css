@@ -1,0 +1,23 @@
+body {
+    background-color: lime;
+}
+#score {
+   font-size: xx-large;
+   margin-right: 1999px;
+}
+#timer {
+    font-size: xx-large;
+    margin-left: 1700px;
+}
+#tobedrawn {
+    font-size: x-large;
+    color: red;
+}
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 5s;
+    margin-top: 50px;
+    animation-iteration-count: infinite;
+}
